@@ -1,0 +1,26 @@
+{
+    "name": "ADSRLib",
+    "keywords": "synth, envelope generator",
+    "description": "Arduino Library for envelope generators",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/avajadi/ADSRLib.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Eddie Olsson",
+        "email": "eddie.olsson@gmail.com",
+        "url": "http://www.avajadi.org/",
+        "maintainer": true
+      },
+      {
+        "name": "Nigel Redmon"
+      }
+    ],
+    "version": "0.0.1",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
+  
